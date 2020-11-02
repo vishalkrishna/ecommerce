@@ -1,0 +1,69 @@
+body{
+    background-color:white;
+    
+}
+
+h1{
+    text-align: center;
+    color: white;
+    background-color: orange;
+    border: 2px solid orange;
+    border-bottom-left-radius: 40px;
+    border-top-right-radius: 40px;
+    width: 50%;
+    padding:10px;
+    margin: auto;
+    font-family: cursive;
+    font-size: 50px;
+        
+}
+form{
+    text-align: center;
+    font-family:cursive,sans-serif
+}
+
+.container{
+    margin-top:10%;
+    background-color: #fdf7ee;
+    padding: 30px;
+    border: 1px solid #fdf7ee;
+    border-radius: 20px;
+    box-shadow: 10px 10px 4px #d3b78e; 
+}
+  
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:20px;
+}
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        3
+    
+    
+    
+}
